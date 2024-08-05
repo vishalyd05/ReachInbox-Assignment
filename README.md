@@ -29,6 +29,9 @@ export default {
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
+# DEMO VIDEO :-
+https://www.loom.com/share/e55a1373e3454c76acb8a0c281a238e2?sid=a86424ab-9011-4d5f-9640-0f34d4701e81
+
 # Installation
 
 To install and run this project on your local machine, follow these steps:
