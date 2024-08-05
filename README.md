@@ -35,13 +35,17 @@ To install and run this project on your local machine, follow these steps:
 
   1. Clone Repository:
 
-      git clone https://github.com/vishal/Reachinbox-Assignment.git
+     ``` git clone https://github.com/vishal/Reachinbox-Assignment.git
+     ```
 
-        cd into project
+     ```   cd into project
+     ```
 
-        run `npm install`
-
+     ```   run `npm install`
+     ```
+     ````
         run `npm run dev`
+     ```
 
        now open in browser
      
