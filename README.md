@@ -35,7 +35,7 @@ To install and run this project on your local machine, follow these steps:
 
 1. Clone repository
    ```
-   git clone
+   git clone https://github.com/vishalyd05/ReachInbox-Assignment.git
    ```
 2. Run Command:
    ```
