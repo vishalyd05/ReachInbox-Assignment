@@ -34,14 +34,14 @@ export default {
 To install and run this project on your local machine, follow these steps:
 
   1. Clone Repository:
-
-     ``` git clone https://github.com/vishal/Reachinbox-Assignment.git
      ```
-
-     ```   cd into project
+      git clone https://github.com/vishal/Reachinbox-Assignment.git
      ```
-
-     ```   run `npm install`
+      ```
+        cd into project
+     ```
+     ```
+       run `npm install`
      ```
      ````
         run `npm run dev`
