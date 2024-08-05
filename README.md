@@ -33,22 +33,19 @@ export default {
 
 To install and run this project on your local machine, follow these steps:
 
-   Clone Repository:
-     ```
-      git clone https://github.com/vishal/Reachinbox-Assignment.git
-     ```
-     ```
-      cd into project
-     ```
-     ```
-       run `npm install`
-     ```
-     ```
-        run `npm run dev`
-     ```
-
-   now open in browser
-     
-  http://localhost:3000/
+1. Clone repository
+   ```
+   git clone
+   ```
+2. Run Command:
+   ```
+   npm install
+   ```
+3. Run on localhost
+   ```
+   npm run dev
+   ```
+4. The app run on 'https://localhost:3000'
+5. Enjoy 
 
    
